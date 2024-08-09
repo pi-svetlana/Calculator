@@ -1,5 +1,5 @@
-#ifndef CPP3_CALCULATOR_CONTROLLER_CONTROLLER_H_
-#define CPP3_CALCULATOR_CONTROLLER_CONTROLLER_H_
+#ifndef CALCULATOR_CONTROLLER_CONTROLLER_H_
+#define CALCULATOR_CONTROLLER_CONTROLLER_H_
 
 #include "../model/credit_model.h"
 #include "../model/model.h"
@@ -24,4 +24,4 @@ class Controller {
 
 }  // namespace ps
 
-#endif  // CPP3_CALCULATOR_CONTROLLER_CONTROLLER_H_
+#endif  // CALCULATOR_CONTROLLER_CONTROLLER_H_
